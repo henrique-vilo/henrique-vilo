@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hello there!
 
-- 🔭 I’m currently studying
+- 🔭 Studying
 - 🌱 I’m currently learning fullstack web-development
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Autism
 
 <div style="display: inline_block"><br>
@@ -12,7 +11,7 @@
   <img align="center" alt="vilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
+<br>
 
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=henrique-vilo"><img
@@ -32,11 +31,10 @@
 ##
 
 <div style="display: inline-block">
-  <a href = "mailto:henrique,lvieira47@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:henrique,lvieira47@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
   <img src="https://media.tenor.com/2hKngpUf2vEAAAAj/jevil-deltarune.gif" alt="Jevil dançando" width="60" align="right" />
 </div> 
 
-##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henrique-vilo/henrique-vilo/output/github-contribution-grid-snake-dark.svg">
