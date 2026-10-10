@@ -6,4 +6,4 @@
 - ⚡ Fun fact: Autism
 
 [![henrique-vilo's GitHub stats](https://github-stats-extended.vercel.app/api?username=henrique-vilo&theme=outrun)](https://github.com/stats-organization/github-stats-extended)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=henrique-vilo%theme=outrun)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=henrique-vilo&theme=outrun)
