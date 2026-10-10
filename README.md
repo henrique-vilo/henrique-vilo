@@ -5,5 +5,21 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Autism
 
-[![henrique-vilo's GitHub stats](https://github-stats-extended.vercel.app/api?username=henrique-vilo&theme=outrun&height=180em)](https://github.com/stats-organization/github-stats-extended)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=henrique-vilo&theme=outrun&height=180em)
+<a href="https://github-stats-extended.vercel.app/api?username=henrique-vilo">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=henrique-vilo&theme=outrun"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=henrique-vilo&theme=outrun" />
+  </picture>
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=henrique-vilo&layout=compact&langs_count=8&card_width=320">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=henrique-vilo&layout=compact&langs_count=8&card_width=320&theme=outrun"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=henrique-vilo&layout=compact&langs_count=8&card_width=320&theme=outrun" />
+  </picture>
+</a>
