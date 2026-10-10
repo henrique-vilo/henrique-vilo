@@ -15,36 +15,17 @@
 ##
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=henrique-vilo">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api?username=henrique-vilo&amp;theme=outrun"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img 
-        height="180"
-        align="center"
-        src="https://github-stats-extended.vercel.app/api?username=henrique-vilo&amp;theme=outrun"
-        alt="Estatísticas do GitHub"
-      />
-    </picture>
-  </a>&nbsp;&nbsp;
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=henrique-vilo&amp;layout=compact&amp;langs_count=8&amp;card_width=200&amp;theme=outrun">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=henrique-vilo&amp;layout=compact&amp;langs_count=8&amp;theme=outrun"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img
-        height="180"
-        align="center"
-        src="https://github-stats-extended.vercel.app/api/top-langs?username=henrique-vilo&amp;layout=compact&amp;langs_count=8&amp;theme=outrun"
-        alt="Linguagens mais utilizadas"
-      />
-    </picture>
-  </a>
+  <a href="https://github-stats-extended.vercel.app/api?username=henrique-vilo"><img
+    src="https://github-stats-extended.vercel.app/api?username=henrique-vilo&theme=outrun"
+    width="48%"
+    alt="Estatísticas do GitHub"
+  /></a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=henrique-vilo&layout=compact&langs_count=8&card_width=200&theme=outrun"><img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=henrique-vilo&layout=compact&langs_count=8&card_width=200&theme=outrun"
+    width="48%"
+    alt="Linguagens mais utilizadas"
+  /></a>
 </p>
-
 ##
 
 <div style="display: inline-block">
