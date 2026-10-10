@@ -5,6 +5,15 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Autism
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="vilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="vilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="vilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="vilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+##
+
 <a href="https://github-stats-extended.vercel.app/api?username=henrique-vilo">
   <picture>
     <source
@@ -23,3 +32,9 @@
     <img height="180em" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=henrique-vilo&layout=compact&langs_count=8&theme=outrun" />
   </picture>
 </a>
+
+##
+
+<p align="center">
+  <img src="https://media.tenor.com/2hKngpUf2vEAAAAj/jevil-deltarune.gif" alt="Jevil dançando" width="180" />
+</p> 
