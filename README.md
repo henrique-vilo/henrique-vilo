@@ -35,6 +35,7 @@
 
 ##
 
-<p align="center">
-  <img src="https://media.tenor.com/2hKngpUf2vEAAAAj/jevil-deltarune.gif" alt="Jevil dançando" width="180" />
-</p> 
+<div style="display: inline-block">
+  <a href = "mailto:henrique,lvieira47@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src="https://media.tenor.com/2hKngpUf2vEAAAAj/jevil-deltarune.gif" alt="Jevil dançando" width="60" align="right" />
+</div> 
