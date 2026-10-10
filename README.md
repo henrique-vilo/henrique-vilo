@@ -5,4 +5,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Autism
 
-[![henrique-vilo's GitHub stats](https://github-stats-extended.vercel.app/api?username=henrique-vilo)](https://github.com/stats-organization/github-stats-extended)
+[![henrique-vilo's GitHub stats](https://github-stats-extended.vercel.app/api?username=henrique-vilo?theme=outrun)](https://github.com/stats-organization/github-stats-extended)
